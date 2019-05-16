@@ -3,6 +3,15 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="EditorScrollLeft">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorScrollRight">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorScrollTop">
+    <mouse-shortcut keystroke="shift button143" />
+  </action>
   <action id="SaveAll" />
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="f10" />
