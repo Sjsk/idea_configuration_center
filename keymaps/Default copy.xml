@@ -12,6 +12,9 @@
   <action id="EditorScrollTop">
     <mouse-shortcut keystroke="shift button143" />
   </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="shift e" />
+  </action>
   <action id="SaveAll" />
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="f10" />
